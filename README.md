@@ -1,10 +1,11 @@
 ### Hi there 👋
+![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/master/mouredev_github_profile.png)
+
 I am Leslie, I am Software Developer with expertise in QA and system testing. 
 - 🔭 I’m currently working on improve my knowledge in the QA area.
 - 🌱 I’m currently learning how to be better in automatation test. 
 - 👯 I’m looking to collaborate on the quality area
 - 💬 Ask me about my expectections and how can I be a good help in your projects.
-- 📫 How to reach me: lesrodpob@gmail.com
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -13,6 +14,10 @@ I am Leslie, I am Software Developer with expertise in QA and system testing.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 
+## Find me at
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lesrodpob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![Email](https://img.shields.io/badge/email-lesrodpob@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+</br>
 <!--
 **lesrodpob/lesrodpob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
