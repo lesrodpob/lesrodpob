@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/github_banner.png)
+![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/data_analyst_banner.png)
 
 I am Leslie, I am Software Developer with expertise in QA and system testing. 
 - 🔭 I’m currently working on improve my knowledge in the QA area.
