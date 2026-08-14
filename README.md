@@ -73,8 +73,10 @@ Interested in connecting with professionals and exploring opportunities in Busin
 </br>
 
 ## 📍 Find me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lesrodpob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lesrodpob)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/[TU_LINK_AQUI](https://www.notion.so/Leslie-Rodriguez-Portfolio-342b844a57828021a93dfbfd9ea5d9a0?source=copy_link))
-[![Email](https://img.shields.io/badge/email-lesrodpob@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lesrodpob-6B7D6A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lesrodpob)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-7D8873?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/Leslie-Rodriguez-Portfolio-342b844a57828021a93dfbfd9ea5d9a0?source=copy_link)
+
+[![Email](https://img.shields.io/badge/Email-lesrodpob@gmail.com-9A7565?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lesrodpob@gmail.com)
 </br>
 </br>
