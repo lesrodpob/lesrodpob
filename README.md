@@ -1,32 +1,45 @@
-![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/data_analyst_banner.png)
+![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/github_banner.png)
 
 # Hi, I’m Leslie 👋
 
-Hi, I’m Leslie — focused on **Data Analytics and Quality Assurance**, with a background in software development.
-
-I work at the intersection of **data and software quality**, using data-driven insights to understand systems, improve reliability, and support better decision-making.
+**Business & Data Analyst** focused on turning business needs into structured processes, actionable insights, and practical solutions.
 
 ---
 
-## 🔭 About Me
+## About Me
 
-🔭 Currently focused on **data analytics, QA engineering, and system validation**  
-📚 Developing skills in **Python, SQL, and test automation**, applying data analysis to improve decision-making in testing processes  
-📊 Interested in using data to identify patterns, detect issues, and optimize system quality and performance  
-🤝 Open to opportunities in **data analytics, QA, and hybrid roles combining quality and data analysis**  
-💬 Open to discussions about data analysis, testing strategies, or improving system reliability and performance  
+- 💼 Business & Data Analyst focused on business analysis, process improvement, and operational transformation.
+- 📊 Experience working with inventory management, ERP systems, reporting, and business operations.
+- 🧩 Skilled in SQL, Excel, Power BI, Python, and data management.
+- 🏗️ Building real world projects that combine business analysis with practical technical solutions.
+- 🌱 Continuously developing my skills in data analysis, business analysis, and technology.
 
 ---
 
 ## 🛠️ Skills
 
 ### 📊 Data Analytics
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+
+
+
+
+## 🛠️ Skills
+
+### 💼 Business Analysis
+Business Requirements · Process Analysis · Root Cause Analysis · Process Improvement · Inventory & Operations Management
+
+### 📊 Data & Reporting
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() · [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]() ·
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]() ·
+Data Analysis · Data Visualization
+
+### 🧰 Tools & Technologies
+Notion · [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]() · GitHub · 
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() · 
+React
+
+### 🧪 Quality Assurance
+Manual Testing · Test Cases · Bug Reporting · Test Automation · Selenium
 
 ---
 
@@ -34,7 +47,7 @@ I work at the intersection of **data and software quality**, using data-driven i
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
 [![Test Design](https://img.shields.io/badge/Test_Cases_Design-6C757D?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=101010)]()
 [![API Testing](https://img.shields.io/badge/API_Testing-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 
