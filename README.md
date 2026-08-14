@@ -23,15 +23,12 @@
 ![Process Analysis](https://img.shields.io/badge/Process%20Analysis-7E57C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-8D6E63?style=for-the-badge&logo=target&logoColor=white)
 ![Process Improvement](https://img.shields.io/badge/Process%20Improvement-26A69A?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Inventory & Operations](https://img.shields.io/badge/Inventory%20%26%20Operations-546E7A?style=for-the-badge&logo=warehouse&logoColor=white)
+[![📦 Inventory & Operations](https://img.shields.io/badge/📦%20Inventory%20%26%20Operations-607D8B?style=for-the-badge)](#)
 
 ### Data & Reporting
+## 📊 Data & Reporting
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00897B?style=for-the-badge&logo=chartdotjs&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white)](#) [![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=chartdotjs&logoColor=black)](#) [![Data%20Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)](#) [![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-00897B?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
 
 ### Tools & Technologies
 
@@ -73,10 +70,6 @@ Interested in connecting with professionals and exploring opportunities in Busin
 </br>
 
 ## 📍 Find me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lesrodpob-6B7D6A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lesrodpob)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-7D8873?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/Leslie-Rodriguez-Portfolio-342b844a57828021a93dfbfd9ea5d9a0?source=copy_link)
-
-[![Email](https://img.shields.io/badge/Email-lesrodpob@gmail.com-9A7565?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lesrodpob@gmail.com)
+[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-lesrodpob-71856F?style=for-the-badge)](https://www.linkedin.com/in/lesrodpob) [![Portfolio](https://img.shields.io/badge/Portfolio-Leslie's%20Projects-71856F?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Leslie-Rodriguez-Portfolio-342b844a57828021a93dfbfd9ea5d9a0?source=copy_link) [![Email](https://img.shields.io/badge/Email-lesrodpob@gmail.com-71856F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesrodpob@gmail.com)
 </br>
 </br>
