@@ -1,4 +1,4 @@
-![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/github_banner.png)
+![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/banner-github.png)
 
 # Hi, I’m Leslie 👋
 
