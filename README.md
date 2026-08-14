@@ -19,38 +19,39 @@
 
 ### 💼 Business Analysis
 
-Business Requirements · Process Analysis · Root Cause Analysis · Process Improvement · Inventory & Operations Management
+![Business Requirements](https://img.shields.io/badge/Business%20Requirements-5C6BC0?style=for-the-badge)
+![Process Analysis](https://img.shields.io/badge/Process%20Analysis-7E57C2?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-8D6E63?style=for-the-badge)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-26A69A?style=for-the-badge)
+![Inventory & Operations](https://img.shields.io/badge/Inventory%20%26%20Operations-546E7A?style=for-the-badge)
 
 ### 📊 Data & Reporting
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-Data Analysis · Data Visualization
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00897B?style=for-the-badge)
 
 ### 🧰 Tools & Technologies
 
-Notion · Git · GitHub · Python · React
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🧪 Quality Assurance
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-607D8B?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-455A64?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-D32F2F?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-388E3C?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-00796B?style=for-the-badge)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-Manual Testing · Test Cases · Bug Reporting · Test Automation · API Testing
-
----
-
-### 🧪 QA / Testing
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
-
-[![Test Design](https://img.shields.io/badge/Test_Cases_Design-6C757D?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=101010)]()
-[![API Testing](https://img.shields.io/badge/API_Testing-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
-
 ---
 
 ### 💻 Development
