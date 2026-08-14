@@ -15,9 +15,9 @@
 - 🌱 Continuously developing my skills in data analysis, business analysis, and technology.
 
 ---
-## 🛠️ Skills
+## Skills
 
-### 💼 Business Analysis
+### Business Analysis
 
 ![Business Requirements](https://img.shields.io/badge/Business%20Requirements-5C6BC0?style=for-the-badge&logo=googledocs&logoColor=white)
 ![Process Analysis](https://img.shields.io/badge/Process%20Analysis-7E57C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -25,7 +25,7 @@
 ![Process Improvement](https://img.shields.io/badge/Process%20Improvement-26A69A?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Inventory & Operations](https://img.shields.io/badge/Inventory%20%26%20Operations-546E7A?style=for-the-badge&logo=warehouse&logoColor=white)
 
-### 📊 Data & Reporting
+### Data & Reporting
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -33,13 +33,13 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00897B?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🧪 Quality Assurance
+### Quality Assurance
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-607D8B?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Test Cases](https://img.shields.io/badge/Test%20Cases-455A64?style=for-the-badge&logo=testinglibrary&logoColor=white)
@@ -51,30 +51,29 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 💻 Development
+### Development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-## 📊 Interests
 
-- Data-driven decision making  
-- Software quality improvement  
-- Test automation and validation  
-- Process optimization using data  
-- Building reliable and efficient systems  
+## Interests
+
+- Remote Business & Data Analyst opportunities
+- Business analysis, process improvement, and project management
+- Data analysis and business reporting
+- Inventory and operations analysis
+- Learning and applying new data analysis tools and technologies
 
 ---
-
 ## 🤝 Let’s Connect
 
-Feel free to reach out if you want to talk about **data, QA, testing strategies, or system reliability**.
+Interested in connecting with professionals and exploring opportunities in Business Analysis, Data Analysis, Operations, and Project Management.
 </br>
 
 ## 📍 Find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lesrodpob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lesrodpob)
-[![Kaggle](https://img.shields.io/badge/Kaggle-leslie--rodriguez-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010)](https://www.kaggle.com/lesrodpob)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/[TU_LINK_AQUI](https://www.notion.so/Leslie-Rodriguez-Portfolio-342b844a57828021a93dfbfd9ea5d9a0?source=copy_link))
 [![Email](https://img.shields.io/badge/email-lesrodpob@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
 </br>
