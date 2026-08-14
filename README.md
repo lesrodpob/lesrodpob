@@ -23,7 +23,7 @@
 ![Process Analysis](https://img.shields.io/badge/Process%20Analysis-7E57C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-8D6E63?style=for-the-badge&logo=target&logoColor=white)
 ![Process Improvement](https://img.shields.io/badge/Process%20Improvement-26A69A?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Inventory & Operations](https://img.shields.io/badge/Inventory%20%26%20Operations-546E7A?style=for-the-badge&logo=box&logoColor=white)
+![Inventory & Operations](https://img.shields.io/badge/Inventory%20%26%20Operations-546E7A?style=for-the-badge&logo=warehouse&logoColor=white)
 
 ### 📊 Data & Reporting
 
