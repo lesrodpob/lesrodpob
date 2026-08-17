@@ -1,18 +1,19 @@
-![https://github.com/lesrodpob](https://raw.githubusercontent.com/lesrodpob/lesrodpob/main/banner-github.png)
-
-# Hi, I’m Leslie 👋
-
-**Business & Data Analyst** focused on turning business needs into structured processes, actionable insights, and practical solutions.
+<img src="./banner-github.png" width="100%">
 
 ---
 
-## About Me
+## 💼 What I Bring
 
-- 💼 Business & Data Analyst focused on business analysis, process improvement, and operational transformation.
-- 📊 Experience working with inventory management, ERP systems, reporting, and business operations.
-- 🧩 Skilled in SQL, Excel, Power BI, Python, and data management.
-- 🏗️ Building real world projects that combine business analysis with practical technical solutions.
-- 🌱 Continuously developing my skills in data analysis, business analysis, and technology.
+A portfolio of projects that combine business analysis, data analysis, technology, and operational improvement.
+
+My work includes:
+
+- Data analysis, reporting, and business insights.
+- SQL and database analysis.
+- Inventory and operations management.
+- Power BI and Excel reporting solutions.
+- Business requirements and process analysis.
+- Background in software testing and software development.
 
 ---
 ## Skills
