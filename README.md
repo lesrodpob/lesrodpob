@@ -4,17 +4,13 @@
 
 ## 💼 What I Bring
 
-A portfolio of projects that combine business analysis, data analysis, technology, and operational improvement.
+I build practical solutions that connect business needs, data, technology, and operations.
 
-My work includes:
-
-- Data analysis, reporting, and business insights.
-- SQL and database analysis.
-- Inventory and operations management.
-- Power BI and Excel reporting solutions.
-- Business requirements and process analysis.
-- Background in software testing and software development.
-
+- Business analysis, data analysis, and business intelligence
+- Process improvement and operational optimization
+- SQL, databases, and data management
+- Power BI, Excel, and data visualization
+- Digital and web solutions for business needs
 ---
 ## Skills
 
@@ -57,16 +53,16 @@ My work includes:
 
 ## Interests
 
-- Remote Business & Data Analyst opportunities
-- Business analysis, process improvement, and project management
-- Data analysis and business reporting
-- Inventory and operations analysis
-- Learning and applying new data analysis tools and technologies
+- Business analysis, data analysis, and business intelligence
+- Business operations and process improvement
+- Digital transformation and automation
+- Technology driven business solutions
+- Data visualization and decision support
 
 ---
 ## 🤝 Let’s Connect
 
-Interested in connecting with professionals and exploring opportunities in Business Analysis, Data Analysis, Operations, and Project Management.
+I’m open to connecting with professionals and exploring opportunities across business, data, and technology.
 </br>
 
 ## 📍 Find me at
